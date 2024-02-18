@@ -1,7 +1,8 @@
 {
   "name": "api-rest-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
+  "node": "18",
   "engines": {
     "node": "18"
   },
